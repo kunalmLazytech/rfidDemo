@@ -1,0 +1,7 @@
+{
+  "name": "scatterlink",
+  "displayName": "scatterlink",
+  "baseURL": "http://scatterlink.swiftmore.in/",
+  "API": "https://mvp-api.scatterlink.com/api/",
+  "xtenantId": "e14f0fe0-b947-470e-9a1c-7976c353c844"
+}
